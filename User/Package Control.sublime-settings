@@ -5,7 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
+		"Compare Side-By-Side",
 		"InsertDate",
-		"Package Control"
-	]
+		"Package Control",
+		"Sync View Scroll",
+	],
 }

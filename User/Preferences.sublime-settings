@@ -1,8 +1,15 @@
 {
 	"font_size": 11,
 	"spell_check": true,
+	"translate_tabs_to_spaces": true,
 	"ignored_packages":
 	[
-		"Vintage"
-	]
+		"Vintage",
+	],
+	"added_words":
+	[
+		"Assange",
+		"Itron",
+		"Gateworks",
+	],
 }
